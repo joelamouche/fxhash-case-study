@@ -1,0 +1,23 @@
+{
+  "name": "fxhash-case-study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joelamouche/fxhash-case-study.git"
+  },
+  "author": "Antoine Estienne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joelamouche/fxhash-case-study/issues"
+  },
+  "homepage": "https://github.com/joelamouche/fxhash-case-study#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "hardhat": "^2.14.0"
+  }
+}
